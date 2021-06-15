@@ -4,6 +4,8 @@ make sure php version >7.4
 update composer, run command in project
 "composer update"
 
+copy file from .env.example to .env
+
 make database in your mysql server
 configure databases credentials in .env file
 run command for create tables in your database
